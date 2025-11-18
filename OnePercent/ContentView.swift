@@ -132,3 +132,7 @@ struct Module: Identifiable {
     ContentView()
 }
 
+// Single line comment
+/* Multi
+ Line
+ Comment */
